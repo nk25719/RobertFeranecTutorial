@@ -575,7 +575,7 @@
     (property "Value" "Conn_01x02" (at 166.624 80.264 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" (at 163.576 77.724 0)
+    (property "Footprint" "myPCBLib:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" (at 163.576 77.724 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 163.576 77.724 0)
