@@ -15,3 +15,4 @@ I have made my first PCB in KiCad.
 
 * Firmware: Affero GPL 3.0
 * CERN Open Hardware Licence Version 2 - Strongly Reciprocal
+
