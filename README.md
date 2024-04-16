@@ -11,3 +11,7 @@ I have made my first PCB in KiCad.
 * I learned how to make local PCB footrpint library.
 * I learned how to switch layers for placing traces.
 
+## License   
+
+* Firmware: Affero GPL 3.0
+* CERN Open Hardware Licence Version 2 - Strongly Reciprocal
