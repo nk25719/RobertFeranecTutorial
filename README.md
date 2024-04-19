@@ -1,6 +1,9 @@
 # Summary
-I am trying to learn to use KiCAd.   
-I have made my first PCB in KiCad.  
+I am learning to use KiCAd.   
+I have made my first PCB in KiCad by following Robert's Feranec tutorial. This PCB lights up an LED. 
+
+
+
 ![image](https://github.com/ForrestErickson/RobertFeranecTutorial/assets/5836181/6cb4877e-bf0d-42fb-85df-66471d67d860)
 
 ## Details
