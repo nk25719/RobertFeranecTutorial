@@ -1,4 +1,4 @@
-21788401621185199
+21791827145695831
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53416,6 +53416,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+ESP32 Devkit 15 pin Footprint Library
+esp
+
+
+0
+0
+0
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -80072,203 +80079,203 @@ Potentiometer vertical Vishay T73YP
 0
 3
 3
-PubInv lib
+PubInv_KiCad_PCB
 Adafruit_MAX31850K_Module
 Through hole, 0.8x0.8 in.
 Temprature sensor, One Wire
 0
 10
 10
-PubInv lib
+PubInv_KiCad_PCB
 Adafruit_MAX31855_Module
 Through hole, 0.8x0.9 in.
 Temprature sensor, SPI 
 0
 8
 8
-PubInv lib
+PubInv_KiCad_PCB
 Adafruit_MAX31865_Module
 Through hole, 1.0x1.1 in.
 Temprature sensor, I2C
 0
 11
 11
-PubInv lib
+PubInv_KiCad_PCB
 Adafruit_MCP9600_Module
 Through hole, 0.95 x0.8 in.
 Temprature sensor, I2C
 0
 11
 11
-PubInv lib
+PubInv_KiCad_PCB
 Arduino_UNO_R3_NoMountingHoles3D
 Arduino UNO R3, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
 Arduino UNO R3
 0
 32
 32
-PubInv lib
+PubInv_KiCad_PCB
 Arduino_UNO_R3_WithMountingHoles3D
 Arduino UNO R3, http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf
 Arduino UNO R3
 0
 32
 32
-PubInv lib
+PubInv_KiCad_PCB
 BarrelJack_CLIFF_FC681465S_SMT_Horizontal
 Surface-mount DC Barrel Jack, https://www.cliffuk.co.uk/products/dcconnectors/FC681465S.pdf
 Power Jack SMT
 0
 4
 4
-PubInv lib
+PubInv_KiCad_PCB
 Buzzer_12.2mm_9.7mm_7.62mm
 Buzzer, D12.2mm height 6.5mm, https://product.tdk.com/info/en/catalog/datasheets/piezoelectronic_buzzer_ps_en.pdf
 buzzer
 0
 2
 2
-PubInv lib
+PubInv_KiCad_PCB
 D_SOD-323
 SOD-323
 SOD-323
 0
 2
 2
-PubInv lib
+PubInv_KiCad_PCB
 KiCad-Logo2_8mm_SilkScreen
 KiCad Logo
 Logo KiCad
 0
 0
 0
-PubInv lib
+PubInv_KiCad_PCB
 LCD_2004A
 LCD LM16255 16x2 character http://www.datasheetlib.com/datasheet/259542/lm16255_sharp-electronics.html
 LCD 12x2
 0
 20
 20
-PubInv lib
+PubInv_KiCad_PCB
 LED_5mm_Radial
 http://optoelectronics.liteon.com/upload/download/DS20-2000-343/1CHKxKNN.pdf
 
 0
 2
 2
-PubInv lib
+PubInv_KiCad_PCB
 Logo_PI_BandW_10x10
 
 
 0
 0
 0
-PubInv lib
+PubInv_KiCad_PCB
 Logo_PI_BandW_70percent_10x10
 
 
 0
 0
 0
-PubInv lib
+PubInv_KiCad_PCB
 Logo_PI_GreyScale10x10
 
 
 0
 0
 0
-PubInv lib
+PubInv_KiCad_PCB
 Logo_PI_GreyScale70Percent10x10
 
 
 0
 0
 0
-PubInv lib
+PubInv_KiCad_PCB
 MagneticBuzzer_9mmx5.8mmP=4mm
 Buzzer Magnetic 9mm AT-0927-TT-6-R, http://www.puiaudio.com/pdf/AT-0927-TT-6-R.pdf
 Buzzer Magnetic 9mm AT-0927-TT-6-R
 0
 2
 2
-PubInv lib
+PubInv_KiCad_PCB
 MountingHole_3.5mm_Pad_Via
 Mounting Hole 3.5mm
 mounting hole 3.5mm
 0
 9
 1
-PubInv lib
+PubInv_KiCad_PCB
 PI_Logo10x10
 KiCad Logo
 Logo KiCad
 0
 0
 0
-PubInv lib
+PubInv_KiCad_PCB
 Potentiometer_Bourns_3386P_Vertical
 Potentiometer, vertical, Bourns 3386P, https://www.bourns.com/pdfs/3386.pdf
 Potentiometer vertical Bourns 3386P
 0
 3
 3
-PubInv lib
+PubInv_KiCad_PCB
 RJ12_Amphenol_54601
 RJ12 connector  https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/c-bmj-0082.pdf
 RJ12 connector
 0
 6
 6
-PubInv lib
+PubInv_KiCad_PCB
 S04B-XASK-1(LF)(SN)
 
 
 0
 5
 4
-PubInv lib
+PubInv_KiCad_PCB
 S04B-XASK-1(LF)(SN)Rev2
 
 
 0
 5
 4
-PubInv lib
+PubInv_KiCad_PCB
 SMD-2_3.2x2.5mm
 http://www.ndk.com/images/products/catalog/c_NX3225GD-STD-CRA-3_e.pdf
 
 0
 2
 2
-PubInv lib
+PubInv_KiCad_PCB
 SW_PUSH-12mm_WithCap_Green
 SW PUSH 12mm https://www.e-switch.com/system/asset/product_line/data_sheet/143/TL1100.pdf
 tact sw push 12mm
 0
 4
 4
-PubInv lib
+PubInv_KiCad_PCB
 Switch_Tactile_THT_6x6mm
 http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1825910&DocType=Customer+Drawing&DocLang=English
 
 0
 4
 4
-PubInv lib
+PubInv_KiCad_PCB
 Trimpot_3.8mmx3.6mm_TC33X-2-103E
 http://www.bourns.com/docs/Product-Datasheets/TC33.pdf
 
 0
 3
 3
-PubInv lib
+PubInv_KiCad_PCB
 USB_Micro-B_Amphenol_10118194_Horizontal
 USB Micro-B receptacle, horizontal, SMD, 10118194, https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10118194.pdf
 USB Micro B horizontal SMD
 0
 17
 6
-PubInv lib
+PubInv_KiCad_PCB
 U_Box_V104_General_Alarm_Device_LED_Standoff
 
 
@@ -90509,6 +90516,13 @@ varistor
 0
 2
 2
+esp32 15 pin Library
+esp32
+
+
+0
+30
+30
 myPCBLib
 LED0603
 Surface Mount LED 0603 - white
