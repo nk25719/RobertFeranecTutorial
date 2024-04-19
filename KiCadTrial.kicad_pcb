@@ -100,8 +100,7 @@
   (net 0 "")
   (net 1 "GND")
   (net 2 "+3.3V")
-  (net 3 "unconnected-(D1-Cathode-PadC)")
-  (net 4 "unconnected-(R1-Pad1)")
+  (net 3 "Net-(D1-Anode)")
 
   (footprint "myPCBLib:LED0603" (layer "F.Cu")
     (tstamp 07c6e402-027e-4ece-8120-190d62ede8ef)
@@ -195,9 +194,9 @@
 
       (stroke (width 0.1) (type solid)) (fill solid) (layer "F.CrtYd") (tstamp 7a17b63e-e9f9-499c-902c-69f710d58ee3))
     (pad "A" smd rect (at 0.825 0 90) (size 0.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
-      (net 1 "GND") (pinfunction "Anode") (pintype "passive") (thermal_bridge_angle 45) (tstamp 8acb98fb-14bd-4ede-9262-810b545cfe36))
+      (net 3 "Net-(D1-Anode)") (pinfunction "Anode") (pintype "passive") (thermal_bridge_angle 45) (tstamp 8acb98fb-14bd-4ede-9262-810b545cfe36))
     (pad "C" smd rect (at -0.825 0 90) (size 0.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
-      (net 3 "unconnected-(D1-Cathode-PadC)") (pinfunction "Cathode") (pintype "passive") (thermal_bridge_angle 45) (tstamp 48288da8-1dfb-47d8-925f-05136b1f777d))
+      (net 1 "GND") (pinfunction "Cathode") (pintype "passive") (thermal_bridge_angle 45) (tstamp 48288da8-1dfb-47d8-925f-05136b1f777d))
     (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
@@ -357,7 +356,7 @@
     (fp_line (start 1 0.625) (end -1 0.625)
       (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp af9ae5dc-766a-4c3a-a0ff-393b6dc0d4b6))
     (pad "1" smd roundrect (at -0.9125 0 90) (size 1.025 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.243902439)
-      (net 4 "unconnected-(R1-Pad1)") (pintype "passive") (tstamp dd438316-6924-453f-aa61-e32a8c297222))
+      (net 3 "Net-(D1-Anode)") (pintype "passive") (tstamp dd438316-6924-453f-aa61-e32a8c297222))
     (pad "2" smd roundrect (at 0.9125 0 90) (size 1.025 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.243902439)
       (net 2 "+3.3V") (pintype "passive") (tstamp 60f84ceb-e216-409a-a4f4-05fda61f749a))
     (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
