@@ -1,6 +1,7 @@
 # Summary
 
 HOMEWORK 1 
+
 I am learning to use KiCAd.   
 I have made my first PCB in KiCad by following Robert's Feranec tutorial. This PCB lights up an LED. 
 
